@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "schema_version": "1.0.0",
+    "protocol": "DIALOGICA",
+    "url": "https://github.com/alexlozovoj1977-cmd/dialogica"
+  },
+  "session": {
+    "d0_context": { "system": "string", "trigger": "string" },
+    "d1_facts": [
+      { "id": "string", "content": "string", "type": "F|I|N|U", "ref": "string" }
+    ],
+    "d2_structure": { "nodes": [], "edges": [] },
+    "d3_chronos": { "t_minus_1": "string", "t_0": "string", "t_plus_1": "string" },
+    "d4_truth_invariant": {
+      "check": "boolean",
+      "distortion_risk": "High|Medium|Low"
+    },
+    "d5_reflexivity": { "human_bias": "string", "ai_bias": "string" },
+    "d6_synthesis": { "decision": "string", "rationale": "string" }
+  }
+}

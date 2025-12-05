@@ -1,0 +1,1 @@
+Dialogica v1.0 dual language.
