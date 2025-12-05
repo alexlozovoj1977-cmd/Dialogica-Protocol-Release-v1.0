@@ -3,12 +3,12 @@ message: "If you use this protocol in your research or co-thinking workflows, pl
 authors:
   - family-names: "Lozovoj"
     given-names: "Alex"
-    affiliation: "INЬ-FRC"
+    affiliation: "INГњ-FRC"
   - name: "The Dialogic Ensemble"
     affiliation: "AI Co-authors"
-title: "DIALOGICA: Operational Truth Protocol for Human–AI Co-Thinking"
+title: "DIALOGICA: Operational Truth Protocol for HumanвЂ“AI Co-Thinking"
 version: 1.0.0
-doi: 10.5281/zenodo.placeholder  # Замініть на реальний після публікації
+doi: 10.5281/zenodo.17831113
 date-released: 2025-12-05
 url: "https://github.com/alexlozovoj1977-cmd/dialogica"
 keywords:
@@ -18,3 +18,4 @@ keywords:
   - "truth-protocol"
   - "human-ai-interaction"
 license: Apache-2.0
+
